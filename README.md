@@ -1,7 +1,3 @@
 # Git tutorial.
-  - fix-B
-
  - feaature-A
-   test...
-   test2...
-
+ - fix-B
